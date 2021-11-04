@@ -213,7 +213,7 @@ def kasir():
         print('       Selamat Datang pada Toko        ')
         print('       DISTRO 048//NIGHT\'sClub        ')
         print('=======================================')
-        print('1. baju\n2. cleana\n3. jaket\n0. exit')
+        print('1. baju\n2. celana\n3. jaket\n0. exit')
         print('=======================================')
         pilih = input('Masukan Pilihan: ')
         print('=======================================')
